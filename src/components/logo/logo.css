@@ -1,0 +1,10 @@
+.Tilt {
+	background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(121,9,102,1) 50%, rgba(2,0,36,1) 115%);
+}
+
+img {
+	padding-top: 10px;
+}
+
+
+/*rgba(2,0,36,1) 0%, rgba(121,9,102,1) 36%, rgba(0,212,255,1)*/

@@ -1,0 +1,39 @@
+{
+  "name": "facerecognition",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "clarifai": "^2.8.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-particles-js": "^2.2.0",
+    "react-scripts": "^1.1.4",
+    "react-tilt": "^0.1.4",
+    "tachyons": "^4.10.0"
+  },
+  "scripts": {
+    "start": "set PORT=4005 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WCPeragine/FaceRecognition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WCPeragine/FaceRecognition/issues"
+  },
+  "homepage": "https://github.com/WCPeragine/FaceRecognition#readme",
+    "nodemonConfig": {
+    "ignore": [
+      "node_modules/"
+    ],
+    "delay": "2500"
+  }
+}
