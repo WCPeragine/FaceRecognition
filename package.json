@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "clarifai": "^2.8.0",
+    "clarifai": "^2.9.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-particles-js": "^2.2.0",
-    "react-scripts": "^1.1.4",
+    "react-scripts": "^3.2.0",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.10.0"
   },
@@ -30,7 +30,7 @@
     "url": "https://github.com/WCPeragine/FaceRecognition/issues"
   },
   "homepage": "https://github.com/WCPeragine/FaceRecognition#readme",
-    "nodemonConfig": {
+  "nodemonConfig": {
     "ignore": [
       "node_modules/"
     ],
